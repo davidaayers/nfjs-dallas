@@ -1,5 +1,3 @@
-# Some stuff
+# NFJS Dallas
 
--[ ] Step 1
--[ ] Step 2
--[ ] Step 3
+Example repository for GitHub power tools
